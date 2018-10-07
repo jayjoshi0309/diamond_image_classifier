@@ -4,6 +4,7 @@ image classification using tensorflow( TensorFlow is an open source library for 
 <br><br>
 # Input
  image of any size( extension .png , .jpeg , .gif ) 
- example
+ <br>example :
+ <br>![](images/testdiamond1.jpg)
 <br><br>
-#output
+# Output
